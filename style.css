@@ -18,8 +18,9 @@ body {
 }
 
 @media (max-width:768px) {
-.hero-container { text-align: center;
-}
+  .hero-container { 
+    text-align: center;
+  }
 }
 .centered-main-page-element {
   display: block;
@@ -143,6 +144,6 @@ li >  .input[type="text"] {
   width:224px
 }
 
-. user-list li.edit-mode label {
+.user-list li.edit-mode label {
   display:none;
 }
